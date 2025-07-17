@@ -61,7 +61,7 @@ You are free to use, modify, and distribute this software for personal or commer
 
 ---
 
-## echnologies Used
+## Technologies Used
 - PHP
 - MySQL
 - HTML/CSS
