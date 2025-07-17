@@ -6,7 +6,7 @@ This project provides a lightweight and efficient solution for managing events, 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 jamkrindo-manifest/
 ├── assets/        # Static assets such as CSS, JS, images
@@ -20,7 +20,7 @@ jamkrindo-manifest/
 
 ---
 
-## 🚀 Features
+## Features
 - Manage event participants, vehicles, and room assignments
 - Integrated attendance tracking system
 - Admin dashboard for monitoring participant attendance
@@ -29,7 +29,7 @@ jamkrindo-manifest/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone this repository**
    ```bash
@@ -55,13 +55,13 @@ jamkrindo-manifest/
 
 ---
 
-## 📝 License
+## License
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute this software for personal or commercial purposes.
 
 ---
 
-## 🛠️ Technologies Used
+## echnologies Used
 - PHP
 - MySQL
 - HTML/CSS
